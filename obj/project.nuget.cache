@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aNRe24geIN9DNrGZ+U2SzmWdYLBaol3/e2m/FICgSG42OGgyh+ZFfVKw+jOBpOspGh4+isKMeyL02YBnYwV82A==",
+  "success": true,
+  "projectFilePath": "/Users/alec/csdis/csdis.csproj",
+  "expectedPackageFiles": [
+    "/Users/alec/.nuget/packages/netcoreserver/5.0.15/netcoreserver.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/alec/csdis/bin/Debug/net5.0/csdis.deps.json
+/Users/alec/csdis/bin/Debug/net5.0/csdis.runtimeconfig.json
+/Users/alec/csdis/bin/Debug/net5.0/csdis.runtimeconfig.dev.json
+/Users/alec/csdis/bin/Debug/net5.0/csdis.dll
+/Users/alec/csdis/bin/Debug/net5.0/ref/csdis.dll
+/Users/alec/csdis/bin/Debug/net5.0/csdis.pdb
+/Users/alec/csdis/obj/Debug/net5.0/csdis.csprojAssemblyReference.cache
+/Users/alec/csdis/obj/Debug/net5.0/csdis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alec/csdis/obj/Debug/net5.0/csdis.AssemblyInfoInputs.cache
+/Users/alec/csdis/obj/Debug/net5.0/csdis.AssemblyInfo.cs
+/Users/alec/csdis/obj/Debug/net5.0/csdis.csproj.CoreCompileInputs.cache
+/Users/alec/csdis/obj/Debug/net5.0/csdis.dll
+/Users/alec/csdis/obj/Debug/net5.0/ref/csdis.dll
+/Users/alec/csdis/obj/Debug/net5.0/csdis.pdb
+/Users/alec/csdis/obj/Debug/net5.0/csdis.genruntimeconfig.cache

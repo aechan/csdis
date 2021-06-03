@@ -1,0 +1,7 @@
+namespace CSDis
+{
+    class Client
+    {
+        
+    }
+}
